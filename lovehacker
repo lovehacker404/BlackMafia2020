@@ -103,7 +103,7 @@ jalan("\033[1;93m ☞ ┈┈┈┈┈┈┈Any Problem U Can Contact This WhatsA
 jalan("\033[1;93m ☞ ┈┈┈┈┈┈┈┈┈┈┈┈+923094161457┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈")
 print "\033[1;93m   ▒▒▒▒▒▒▒▒▒▒•◈•▒▒▒▒▒▒▒▒▒▒\033[1;96mLogin BlackMafia\033[1;95m▒▒▒▒▒▒▒▒▒▒•◈•▒▒▒▒▒▒▒▒▒▒"
 
-CorrectUsername = "BlackMafia"
+CorrectUsername = "Corona"
 CorrectPassword = "lovehacker"
 
 loop = 'true'
